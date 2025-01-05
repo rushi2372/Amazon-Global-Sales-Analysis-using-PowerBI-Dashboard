@@ -1,28 +1,25 @@
-# Amazon-Global-Sales-Analysis-using-PowerBI-Dashboard
+# Amazon Global Sales Analysis Using Power BI Dashboard
 
-# Summary
-This Power BI Dashboard provides an interactive view of Amazon's global sales data, allowing users to explore and analyze different aspects of the business by interacting with various sections. The numbers and visualizations displayed are dynamic and will update based on the user's selections.
+## Summary
+This Power BI dashboard provides an interactive and insightful view of Amazon's global sales data. Users can explore various aspects of Amazon's business through dynamic visualizations that update based on user-selected filters and parameters. It allows for in-depth analysis of sales, profit margins, market trends, and customer behavior.
 
---> Sales Projection: This section shows the projected sales volume, which will change based on the selected filters or parameters. Product Unit, KPI, and Return: These metrics display the total number of product units, a key performance indicator, and the return value, respectively. The values will dynamically update based on the user's selections.
+# Dashboard Features
+--> Sales Projection: Displays projected sales volumes, dynamically updated with selected filters, including product units, key performance indicators (KPIs), and returns.
+--> Sales by Segment: Interactive pie chart visualizing sales breakdown by segments (Consumer, Corporate, and Home Office), adjusting in real-time based on applied filters.
+--> Sales by Market: Shows sales distribution across geographic markets (Asia Pacific, Europe, US/Canada, LATAM, and Africa), with resizing slices based on user selections.
+--> Sales by Region: World map with bubble sizes representing sales volume across regions, which change dynamically with filter adjustments.
+--> Profit by Customer Name: Bar chart displaying the profit contribution by individual customers, adjusting according to selected parameters.
+--> Product Profitability: Dynamic charts highlighting the top and bottom 5 products by profit margin, updating in real-time.
 
---> Sales by Segment: This pie chart visualizes the sales breakdown by segment (Consumer, Corporate, and Home Office). The slices will adjust their sizes based on the applied filters.
+# Key Insights
+--> Strongest Markets: Asia Pacific and US/Canada regions are Amazon’s top sales markets, showing the most potential for continued growth.
+--> Consumer Focus: Most of Amazon's sales come from the Consumer segment, suggesting a need for continued focus and expansion in this area.
+--> Profit Variability: Significant differences exist in product profitability, indicating areas for optimization in pricing, sales strategy, and product offerings.
+--> Global Expansion: There are untapped opportunities for growth in underperforming regions, such as LATAM and Africa.
 
---> Sales by Market: This chart displays the sales distribution across different geographic markets (Asia Pacific, Europe, USCA, LATAM, and Africa). The slices will resize dynamically as the user explores different scenarios.
-
---> Sales by Region: The world map shows the sales volume across different regions, with the size of the bubbles representing the sales volume. The bubbles will change in size and location based on the selected filters.
-
---> Profit by Customer Name: This bar chart displays the profit contribution by individual customer names. The bars will adjust their heights based on the selected parameters. Bottom 5 Profit by Product and Top 5 Profit by Product: These charts show the five products with the lowest and highest profit margins, respectively. The products and their corresponding bar lengths will change dynamically based on the user's selections.
-
---> Key Insights:
-Amazon's biggest sales come from Asia Pacific and the US/Canada regions. These are their strongest markets. Most of Amazon's sales are from products sold to individual consumers, rather than businesses or offices. Some Amazon products make a lot of profit, while others don't make much profit at all. There's a big difference in how profitable different products are. The map shows that Amazon sells a lot in North America and Europe, but there are opportunities to grow sales in other parts of the world.
-
---> Recommendations:
-Market Expansion: Amazon should invest more in advertising and building better delivery systems in Asia Pacific and the US/Canada. These are their strongest markets with lots of potential customers. Focus on Consumer Products: Given the significant contribution of the Consumer segment, Amazon should focus on enhancing its consumer offerings, improving customer experience, and exploring new product lines or services tailored to consumer needs.
-
---> Review Product Profits: Amazon should carefully look at why some products make a lot of profit while others don't. They may need to adjust prices, improve delivery, or change which products they sell to make more money.
-
---> Sell in New Countries: While continuing to sell in their current big markets, Amazon should also look for new countries with lots of potential customers. They may need to adapt their products and marketing for these new markets.
-
---> Use Data to Make Decisions: Amazon should use the interactive dashboard to constantly check sales numbers, customer preferences, and market trends. This will help them make good decisions and quickly adapt their strategies as things change.
-
-By following these recommendations, Amazon can strengthen its position as a leader, make more money from its products, and find new opportunities for growth while maintaining a customer-centric approach.
+# Recommendations
+--> Market Expansion: Increase investments in advertising and improve logistics in Asia Pacific and US/Canada to capitalize on strong market potential. Expand efforts in emerging markets like LATAM and Africa to diversify revenue streams.
+--> Enhance Consumer Segment: Focus on expanding and improving the consumer product range, optimizing customer experience, and exploring new product lines tailored to consumer needs.
+--> Review Product Profits: Analyze low-margin products to identify opportunities for price adjustments or product portfolio changes that could improve profitability.
+--> Explore New Markets: Investigate selling in additional countries with large, untapped customer bases. Tailor products and marketing strategies to new regional needs.
+--> Data-Driven Decision Making: Use the interactive dashboard to monitor and analyze key metrics continuously, ensuring timely adjustments to strategies based on evolving trends.
