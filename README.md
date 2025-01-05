@@ -4,7 +4,7 @@
 This Power BI dashboard provides an interactive and insightful view of Amazon's global sales data. Users can explore various aspects of Amazon's business through dynamic visualizations that update based on user-selected filters and parameters. It allows for in-depth analysis of sales, profit margins, market trends, and customer behavior.
 
 # Dashboard Features
---> Sales Projection: Displays projected sales volumes, dynamically updated with selected filters, including product units, key performance indicators (KPIs), and returns.
+--> *Sales Projection*: Displays projected sales volumes, dynamically updated with selected filters, including product units, key performance indicators (KPIs), and returns.
 
 --> Sales by Segment: Interactive pie chart visualizing sales breakdown by segments (Consumer, Corporate, and Home Office), adjusting in real-time based on applied filters.
 
