@@ -1,38 +1,125 @@
-# Amazon Global Sales Analysis Using Power BI Dashboard
-![PowerBI_Amazon Dashboard](https://github.com/user-attachments/assets/2308b7fe-e0b6-4ae1-b689-1067204cb376)
+# 📊 Amazon Global Sales Analysis — Power BI Dashboard
 
-## Summary
-This Power BI dashboard provides an interactive and insightful view of Amazon's global sales data. Users can explore various aspects of Amazon's business through dynamic visualizations that update based on user-selected filters and parameters. It allows for in-depth analysis of sales, profit margins, market trends, and customer behavior.
+![Dashboard Preview](https://github.com/user-attachments/assets/2308b7fe-e0b6-4ae1-b689-1067204cb376)
 
-# Dashboard Features
---> **Sales Projection**: Displays projected sales volumes, dynamically updated with selected filters, including product units, key performance indicators (KPIs), and returns.
+---
 
---> **Sales by Segment**: Interactive pie chart visualizing sales breakdown by segments (Consumer, Corporate, and Home Office), adjusting in real-time based on applied filters.
+## 📌 Project Overview
 
---> **Sales by Market**: Shows sales distribution across geographic markets (Asia Pacific, Europe, US/Canada, LATAM, and Africa), with resizing slices based on user selections.
+This project presents an **interactive Power BI dashboard** built on Amazon's global sales data. It enables users to explore sales performance, profit margins, market trends, and customer behavior through dynamic visualizations that respond in real-time to applied filters and parameters.
 
---> **Sales by Region**: World map with bubble sizes representing sales volume across regions, which change dynamically with filter adjustments.
+---
 
---> **Profit by Customer Name**: Bar chart displaying the profit contribution by individual customers, adjusting according to selected parameters.
+## 🗂️ Repository Structure
 
---> **Product Profitability**: Dynamic charts highlighting the top and bottom 5 products by profit margin, updating in real-time.
+```
+Amazon-Global-Sales-Analysis/
+├── Amazon-Dataset.xlsx       # Source dataset used for the dashboard
+└── README.md                 # Project documentation
+```
 
-# Key Insights
---> **Strongest Markets**: Asia Pacific and US/Canada regions are Amazon’s top sales markets, showing the most potential for continued growth.
+---
 
---> **Consumer Focus**: Most of Amazon's sales come from the Consumer segment, suggesting a need for continued focus and expansion in this area.
+## ⚙️ Tools & Technologies
 
---> **Profit Variability**: Significant differences exist in product profitability, indicating areas for optimization in pricing, sales strategy, and product offerings.
+| Tool        | Purpose                              |
+|-------------|--------------------------------------|
+| Power BI    | Dashboard creation & visualization   |
+| Microsoft Excel (.xlsx) | Source data storage        |
 
---> **Global Expansion**: There are untapped opportunities for growth in underperforming regions, such as LATAM and Africa.
+---
 
-# Recommendations
---> **Market Expansion**: Increase investments in advertising and improve logistics in Asia Pacific and US/Canada to capitalize on strong market potential. Expand efforts in emerging markets like LATAM and Africa to diversify revenue streams.
+## 📊 Dashboard Features
 
---> **Enhance Consumer Segment**: Focus on expanding and improving the consumer product range, optimizing customer experience, and exploring new product lines tailored to consumer needs.
+### 1. 📈 Sales Projection
+Displays projected sales volumes dynamically updated with selected filters — including product units, KPIs, and return metrics.
 
---> **Review Product Profits**: Analyze low-margin products to identify opportunities for price adjustments or product portfolio changes that could improve profitability.
+### 2. 🥧 Sales by Segment
+An interactive **pie chart** visualizing sales breakdown across three segments:
+- Consumer
+- Corporate
+- Home Office
 
---> **Explore New Markets**: Investigate selling in additional countries with large, untapped customer bases. Tailor products and marketing strategies to new regional needs.
+Slices adjust in real-time based on applied filters.
 
---> **Data-Driven Decision Making**: Use the interactive dashboard to monitor and analyze key metrics continuously, ensuring timely adjustments to strategies based on evolving trends.
+### 3. 🌍 Sales by Market
+Shows sales distribution across five geographic markets:
+- Asia Pacific
+- Europe
+- US / Canada
+- LATAM
+- Africa
+
+### 4. 🗺️ Sales by Region
+A **world map** with bubble sizes representing sales volume across regions — bubbles resize dynamically with filter adjustments.
+
+### 5. 👤 Profit by Customer Name
+A **bar chart** displaying profit contribution by individual customers, adjusting based on selected parameters.
+
+### 6. 📦 Product Profitability
+Dynamic charts highlighting the **Top 5** and **Bottom 5** products by profit margin, updating in real-time.
+
+---
+
+## 💡 Key Insights
+
+| Insight | Detail |
+|--------|--------|
+| 🏆 Strongest Markets | Asia Pacific and US/Canada are the top-performing regions |
+| 🛒 Consumer Dominance | The Consumer segment accounts for the majority of sales |
+| 📉 Profit Variability | Significant margin differences exist across product lines |
+| 🌱 Growth Opportunity | LATAM and Africa remain underleveraged markets |
+
+---
+
+## ✅ Recommendations
+
+### 1. 🌐 Market Expansion
+- Increase advertising investment and improve logistics in **Asia Pacific** and **US/Canada**.
+- Expand into emerging markets like **LATAM** and **Africa** to diversify revenue streams.
+
+### 2. 👥 Enhance Consumer Segment
+- Expand and improve the consumer product range.
+- Optimize customer experience and explore new product lines tailored to consumer needs.
+
+### 3. 🔍 Review Product Profitability
+- Analyze low-margin products for pricing adjustments or portfolio changes.
+- Identify opportunities to improve overall profitability.
+
+### 4. 🗺️ Explore New Markets
+- Investigate selling in additional countries with large, untapped customer bases.
+- Tailor products and marketing strategies to meet regional demands.
+
+### 5. 📊 Data-Driven Decision Making
+- Continuously monitor key metrics using the interactive dashboard.
+- Make timely strategic adjustments based on evolving trends and data signals.
+
+---
+
+## 📁 Dataset
+
+The dataset (`Amazon-Dataset.xlsx`) contains global sales records including:
+- Order details (ID, date, segment, market, region)
+- Product information (category, sub-category, product name)
+- Financial metrics (sales, quantity, discount, profit)
+- Customer and shipping information
+
+---
+
+## 🚀 Getting Started
+
+1. Clone or download this repository.
+2. Open **Power BI Desktop**.
+3. Load `Amazon-Dataset.xlsx` as the data source.
+4. Build or import the dashboard using the provided data model.
+5. Use slicers and filters to explore insights interactively.
+
+---
+
+## 📄 License
+
+This project is intended for **educational and analytical purposes** only.
+
+---
+
+> 💬 *Feel free to raise issues or contribute improvements via pull requests.*
